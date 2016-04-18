@@ -1,0 +1,10 @@
+C:\Users\apg\Desktop\pertumbuhanPenduduk\pertumbuhanPenduduk\bin\Debug\pertumbuhanPenduduk.exe.config
+C:\Users\apg\Desktop\pertumbuhanPenduduk\pertumbuhanPenduduk\bin\Debug\pertumbuhanPenduduk.exe
+C:\Users\apg\Desktop\pertumbuhanPenduduk\pertumbuhanPenduduk\bin\Debug\pertumbuhanPenduduk.pdb
+C:\Users\apg\Desktop\pertumbuhanPenduduk\pertumbuhanPenduduk\obj\Debug\pertumbuhanPenduduk.csprojResolveAssemblyReference.cache
+C:\Users\apg\Desktop\pertumbuhanPenduduk\pertumbuhanPenduduk\obj\Debug\pertumbuhanPenduduk.Form1.resources
+C:\Users\apg\Desktop\pertumbuhanPenduduk\pertumbuhanPenduduk\obj\Debug\pertumbuhanPenduduk.Properties.Resources.resources
+C:\Users\apg\Desktop\pertumbuhanPenduduk\pertumbuhanPenduduk\obj\Debug\pertumbuhanPenduduk.csproj.GenerateResource.Cache
+C:\Users\apg\Desktop\pertumbuhanPenduduk\pertumbuhanPenduduk\obj\Debug\pertumbuhanPenduduk.exe
+C:\Users\apg\Desktop\pertumbuhanPenduduk\pertumbuhanPenduduk\obj\Debug\pertumbuhanPenduduk.pdb
+C:\Users\apg\Desktop\pertumbuhanPenduduk\pertumbuhanPenduduk\obj\Debug\pertumbuhanPenduduk.manual.resources
